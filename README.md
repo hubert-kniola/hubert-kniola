@@ -33,5 +33,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZH
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubert-kniola&show_icons=true&theme=radical
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kniola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kniola&layout=compact&theme=chartreuse-dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
