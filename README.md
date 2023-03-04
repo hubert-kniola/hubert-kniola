@@ -2,13 +2,11 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> from Poland. <div id="badges">
   <a href="https://www.linkedin.com/in/hubert-knio%C5%82a-4225091a3">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> from Poland.
 
 ### :hammer_and_wrench: Languages and Tools :
 
