@@ -29,7 +29,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZH
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=hubert-kniola&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hubert-kniola&theme=hacker&background=FFFFFF00)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubert-kniola&show_icons=true&theme=radical
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kniola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
