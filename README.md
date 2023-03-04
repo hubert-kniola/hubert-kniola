@@ -31,5 +31,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZH
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=hubert-kniola&theme=blux&background=FFFFFF00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kniola&layout=default &theme=algolia&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kniola&layout=default&theme=algolia&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
