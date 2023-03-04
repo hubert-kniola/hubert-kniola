@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
@@ -10,7 +8,7 @@
   </a>
 </div>
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> from India.
+I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> from Poland.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -35,17 +33,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/jdPMeyv9rn0hZH
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubert-kniola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**hubert-kniola/hubert-kniola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
